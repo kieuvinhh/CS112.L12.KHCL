@@ -1,4 +1,4 @@
-f = open("Input/test3.txt")
+f = open("Input/test4.txt")
 inp = f.readlines()
 n,k = int(inp[0]), int(inp[1])
 a = inp[2:]
